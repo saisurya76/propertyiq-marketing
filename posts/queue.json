@@ -6,7 +6,8 @@
   "sub": "Research a property with explainable, evidence-based analysis, not a sales pitch.",
   "cta": "Try PropertyIQWeb",
   "caption": "PropertyIQWeb gives independent, evidence-based intelligence on a property before you commit. Know before you buy.\n\nLink in bio: app.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "draft"
+  "status": "draft",
+  "scheduled_at": null
  },
  {
   "id": "p02",
@@ -15,7 +16,8 @@
   "sub": "Get similar property suggestions for your report.",
   "cta": "Quick Analysis \u00b7 $4 one-time",
   "caption": "Quick Analysis adds similar property suggestions to your property report. One-time $4, no subscription.\n\nLink in bio: app.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "draft"
+  "status": "draft",
+  "scheduled_at": null
  },
  {
   "id": "p03",
@@ -24,7 +26,8 @@
   "sub": "See similar properties to the one you are researching.",
   "cta": "Quick Analysis \u00b7 $4",
   "caption": "Buying is a big decision. Quick Analysis shows similar properties for the one you are researching, so you have something to compare against.\n\nLink in bio: app.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "draft"
+  "status": "draft",
+  "scheduled_at": null
  },
  {
   "id": "p04",
@@ -33,7 +36,8 @@
   "sub": "Quick Analysis: similar property suggestions for your report. No plan to cancel.",
   "cta": "Get Quick Analysis",
   "caption": "Quick Analysis is a single $4 payment. No subscription, nothing to cancel.\n\nLink in bio: app.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "draft"
+  "status": "draft",
+  "scheduled_at": null
  },
  {
   "id": "p05",
@@ -42,7 +46,8 @@
   "sub": "PropertyIQWeb is independent property intelligence you can read for yourself.",
   "cta": "Know before you buy",
   "caption": "We don't sell properties. We help you research them.\n\nLink in bio: app.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "draft"
+  "status": "draft",
+  "scheduled_at": null
  },
  {
   "id": "p06",
@@ -51,7 +56,8 @@
   "sub": "Evidence-based analysis you can follow, not a black-box number.",
   "cta": "Know before you buy",
   "caption": "Analysis is only useful if you can see why. PropertyIQWeb keeps it explainable.\n\nLink in bio: app.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "draft"
+  "status": "draft",
+  "scheduled_at": null
  },
  {
   "id": "p07",
@@ -60,7 +66,8 @@
   "sub": "Find similar properties to compare it with.",
   "cta": "Quick Analysis \u00b7 $4 one-time",
   "caption": "Found a property you like? Quick Analysis suggests similar ones to compare. $4 one-time.\n\nLink in bio: app.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "draft"
+  "status": "draft",
+  "scheduled_at": null
  },
  {
   "id": "p08",
@@ -69,6 +76,7 @@
   "sub": "Start your property report on PropertyIQWeb.",
   "cta": "app.propertyiqweb.com",
   "caption": "Research first, decide later. Start your property report at the link in bio.\n\napp.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "draft"
+  "status": "draft",
+  "scheduled_at": null
  }
 ]

@@ -1,0 +1,34 @@
+name: Publish approved posts
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "send, dry-run or channels"
+        default: send
+  push:
+    paths: ["posts/queue.json"]
+  schedule:
+    - cron: "30 3 * * *"   # daily 09:00 IST
+permissions:
+  contents: write
+concurrency: publish
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: |
+          case "${{ github.event.inputs.mode }}" in
+            channels) python3 tools/publish.py --channels ;;
+            dry-run) python3 tools/publish.py --dry-run ;;
+            *) python3 tools/publish.py ;;
+          esac
+      - name: Save status
+        run: |
+          git config user.name "propertyiq-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add posts/queue.json
+          git diff --cached --quiet || (git commit -m "Update post status" && git push)
