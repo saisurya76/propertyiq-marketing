@@ -6,8 +6,9 @@
   "sub": "Research a property with explainable, evidence-based analysis, not a sales pitch.",
   "cta": "Try PropertyIQWeb",
   "caption": "PropertyIQWeb gives independent, evidence-based intelligence on a property before you commit. Know before you buy.\n\nLink in bio: app.propertyiqweb.com\n\n#PropertyIQWeb #PropertyResearch #RealEstate #HomeBuyingTips",
-  "status": "approved",
-  "scheduled_at": "2026-10-22T18:20:00.000Z"
+  "status": "queued",
+  "scheduled_at": "2026-10-22T18:20:00.000Z",
+  "buffer_id": "6ada515aad1fc1b5527d0d99"
  },
  {
   "id": "p02",
